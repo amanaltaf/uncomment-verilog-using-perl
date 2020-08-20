@@ -13,3 +13,4 @@ This utility is intended to make Uncommenting the **Verilog_file(\*.v)** easier.
 # Example of usage
 
 **ver_uncom.pl&nbsp; &nbsp;-o &nbsp;input.v&nbsp;  &nbsp;output.v**
+**ver_uncom.pl&nbsp; &nbsp;-h**
